@@ -1,0 +1,14 @@
+{
+  "name": "Ch3_Readable_Streams",
+  "version": "1.0.0",
+  "description": "random streams from Nodejs Design Patterns",
+  "main": "randomStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "will",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^0.7.5"
+  }
+}

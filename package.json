@@ -1,0 +1,23 @@
+{
+  "name": "Node.js_Design_Patterns",
+  "version": "1.0.0",
+  "description": "Examples from the book Node.js Design Patterns",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/will-keppler/Node.js-Design-Patterns-examples.git"
+  },
+  "author": "will keppler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/will-keppler/Node.js-Design-Patterns-examples/issues"
+  },
+  "homepage": "https://github.com/will-keppler/Node.js-Design-Patterns-examples"
+}
